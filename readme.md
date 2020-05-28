@@ -12,7 +12,7 @@ The collections allows you to test encrypt and decrypt Rest APIs from within Pos
 
 ## Test Service
 
-###Encrypt Service
+### Encrypt Service
 request: 
 
     {
@@ -25,7 +25,7 @@ response:
         "response": "lkXXWUnKbwhcKNkN82IregUOTsQzPntPYJvliLFfTWUbES3HIrllCFHhLcST9VxSuH0diZonda5HolNRRSot/njeEspAoHu45Id+6iES8YofuIDa6eBHKiUsL90Y5JLL308vctL5INhCU627BJHC8Omj6/GmF4GvscLHZqASu1E="
     }
     
-###Decrypt Service
+### Decrypt Service
     
 request:
 
